@@ -1,0 +1,9 @@
+# Automagically generated file: Please do not edit!
+lvs_ExtfVersion 3
+lvs_ExtRunTimes 1631648766 1631648767
+lvs_ExtOutFile RUNDIR /home/craigmcmahon/elec4609/lab1_2
+lvs_ExtOutFile RULES_FILE /home/craigmcmahon/elec4609/lab1_2/_calibreLVS.rul_
+lvs_ExtInfoExtSummary {0 0 0 0 0 0 0 0 0 0 0}
+lvs_ExtInfoDfmSummary {0}
+lvs_ExtOutFile LAYOUT_NETLIST /home/craigmcmahon/elec4609/lab1_2/ring_oscillator.sp
+lvs_ExtOutFile EXTRACTION_REPORT ring_oscillator.lvs.report.ext

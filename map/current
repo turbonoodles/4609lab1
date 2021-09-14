@@ -1,0 +1,26 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "ring_oscillator"
+  repList "auCdl schematic"
+  stopList "auCdl"
+  hierDelim "."
+  netlistDir "/home/craigmcmahon/elec4609/lab1_2"
+ )
+( instViewTable
+ )
+( net
+ )
+( inst
+ )
+( model
+( "CuFab/inverter/schematic" "inverter" )
+( "CuFab/ring_oscillator/schematic" "ring_oscillator" )
+ )
+( term
+ )
+( param
+ )
+( "ring_oscillator" "ihnl/cds1/map" )
+( "inverter" "ihnl/cds0/map" )
+ )

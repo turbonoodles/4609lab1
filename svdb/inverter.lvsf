@@ -1,0 +1,9 @@
+# Automagically generated file: Please do not edit!
+lvs_LvsOutFile RUNDIR /home/craigmcmahon/elec4609/lab1_2
+lvs_LvsfVersion 2
+lvs_LvsInputSummary {0 0 0}
+lvs_LvsComparisonSummary {3 0 0 0}
+lvs_LvsOutFile LVS_REPORT inverter.lvs.report
+lvs_LvsOutFile SOURCE_NETLIST /home/craigmcmahon/elec4609/lab1_2/inverter.src.net
+lvs_LvsOutFile RULES_FILE /home/craigmcmahon/elec4609/lab1_2/_calibreLVS.rul_
+lvs_LvsRunTimes 1631645638 1631645638

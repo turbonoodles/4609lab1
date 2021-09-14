@@ -1,0 +1,28 @@
+************************************************************************
+* auCdl Netlist:
+* 
+* Library Name:  CuFab
+* Top Cell Name: inverter
+* View Name:     schematic
+* Netlisted on:  Sep 14 14:53:57 2021
+************************************************************************
+
+*.EQUATION
+*.SCALE METER
+*.MEGA
+.PARAM
+
+
+
+************************************************************************
+* Library Name: CuFab
+* Cell Name:    inverter
+* View Name:    schematic
+************************************************************************
+
+.SUBCKT inverter VDD VIN VOUT VSS
+*.PININFO VIN:I VOUT:O VDD:B VSS:B
+MM0 VOUT VIN VSS NM W=9.6u L=4.8u
+MM1 VOUT VIN VDD PM W=19.2u L=4.8u
+.ENDS
+

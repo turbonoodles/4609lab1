@@ -1,0 +1,9 @@
+CADENCE IHNL01070
+$model
+CuFab/inverter/schematic inverter
+CuFab/ring_oscillator/schematic ring_oscillator
+$endmodel
+$net
+$endnet
+$param
+$endparam

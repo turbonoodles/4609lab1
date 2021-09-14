@@ -1,0 +1,145 @@
+inverter 2000
+METAL_WIDTH
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Minimum width of METAL = 7.2
+METAL_SPACING
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Minimum spacing of METAL = 7.2
+POLY_WIDTH
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Minimum width of POLY = 4.8
+POLY_SPACING
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Minimum spacing of POLY = 4.8
+FIELD_POLY_DWELL_SPACING
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Minimum spacing between field POLY and active regions
+FIELD_POLY_SOURCE_DRAIN_TOUCHING
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Field_Poly must not touch source/drain region
+DWELL_WIDTH
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Minimum width of DWELL = 4.8
+DWELL_SPACING
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Minimum spacing of DWELL = 4.8
+CONTACT_WIDTH
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Minimum width of CONTACT = 4.8
+CONTACT_METAL_OVERLAP
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+METAL must extend past CONTACT by 2.4 um on four sides
+CONTACT_POLY_OVERLAP
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+POLY must enclose CONTACT by 2.4 um on four sides
+CHANNEL_CONTACT_SPACING
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Channel must be at least 4.8 um away from contact cut
+CONTACT_D_WELL_OVERLAP
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Device well must enclose CONTACT by 2.4 um on four sides
+NWELL_DWELL_OVERLAP.1
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+NWELL well must extend past DWELL by 2.4 
+NWELL_DWELL_OVERLAP.2
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+NWELL well must not have a coincident edge with DWELL
+Pplus_NWELL_OVERLAP.2
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Pplus well must not have a coincident edge with NWELL
+Pplus_P_SOURCE_DRAIN_ENCLOSURE
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Pplus must enclose p+ source/drain regions by at least 4.8 um
+Pplus_DWELL_OVERLAP.2
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Pplus well must not have a coincident edge with Active Region
+Pplus_N_SOURCE_DRAIN_SPACING
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Minimum 4.8um spacing between p+ and n+ source drain
+BAD_GATE.1
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+POLY must extend past DWELL by 4.8 um.
+BAD_GATE.2
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Channel must be 4.8 um from device well edges that it doesn't intersect.
+BAD_GATE.3
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Poly must not have a coincident edge with DWELL
+Grid.1
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+All shapes must be on a 2.4 um grid
+Grid.2
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+All shapes must be on a 2.4 um grid
+Grid.3
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+All shapes must be on a 2.4 um grid
+Grid.4
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+All shapes must be on a 2.4 um grid
+Grid.5
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+All shapes must be on a 2.4 um grid
+Grid.6
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+All shapes must be on a 2.4 um grid
+Grid.7
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+All shapes must be on a 2.4 um grid
+ART_TO_METAL
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Art must be 7.2 microns from metal
+ART_TO_POLY
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Art must be 7.2 microns from poly
+ART_TO_DWELL
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Art must be 7.2 microns from device well
+ART_TO_NPLUS
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Art must be 7.2 microns from N+
+ART_TO_PPLUS
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Art must be 7.2 microns from P+
+ART_TO_CONTACT
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Art must be 7.2 microns from contact
+ART_TO_NWELL
+0 0 2 Sep 14 14:53:34 2021                     
+Rule File Pathname: /home/craigmcmahon/elec4609/lab1_2/_calibreDRC.rul_
+Art must be 7.2 microns from NWELL

@@ -1,0 +1,3 @@
+INCLUDE tech.lib
+DEFINE CuFab /home/craigmcmahon/elec4609/lab1_2/CuFab
+DEFINE avTech /CMC/tools/cadence/ASSURA04.14.119-616_lnx86/tools/assura/etc/avtech/avTech

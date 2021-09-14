@@ -1,0 +1,9 @@
+# Automagically generated file: Please do not edit!
+lvs_ExtfVersion 3
+lvs_ExtRunTimes 1631645638 1631645638
+lvs_ExtOutFile RUNDIR /home/craigmcmahon/elec4609/lab1_2
+lvs_ExtOutFile RULES_FILE /home/craigmcmahon/elec4609/lab1_2/_calibreLVS.rul_
+lvs_ExtInfoExtSummary {0 0 0 0 0 0 0 0 0 0 0}
+lvs_ExtInfoDfmSummary {0}
+lvs_ExtOutFile LAYOUT_NETLIST /home/craigmcmahon/elec4609/lab1_2/inverter.sp
+lvs_ExtOutFile EXTRACTION_REPORT inverter.lvs.report.ext

@@ -1,0 +1,17 @@
+DEFINE analogLib $CDSHOME/dfII/etc/cdslib/artist/analogLib
+ASSIGN analogLib libMode shared
+DEFINE US_8ths   $CDSHOME/dfII/etc/cdslib/sheets/US_8ths
+ASSIGN US_8ths   libMode shared
+DEFINE basic     $CDSHOME/dfII/etc/cdslib/basic
+ASSIGN basic     libMode shared
+DEFINE cdsDefTechLib $CDSHOME/dfII/etc/cdsDefTechLib
+ASSIGN cdsDefTechLib libMode shared
+DEFINE OPDK_TechLib  $OPDK_DIR/organic_basekit/lib/OPDK_TechLib
+ASSIGN OPDK_TechLib  libMode shared
+DEFINE OPDK_Devices  $OPDK_DIR/organic_basekit/lib/OPDK_Devices
+ASSIGN OPDK_Devices  libMode shared
+DEFINE OPDK_Examples  $OPDK_DIR/organic_basekit/lib/OPDK_Examples
+ASSIGN OPDK_Examples  libMode shared
+DEFINE OPDK_PCells  $OPDK_DIR/organic_basekit/lib/OPDK_PCells
+ASSIGN OPDK_PCells  libMode shared
+

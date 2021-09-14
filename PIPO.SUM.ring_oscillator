@@ -1,0 +1,69 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.6-64b 12/07/2015 20:15 (sjfnl008) $
+          : sub-version  IC6.1.6-64b.500.14 
+Started at: 14-Sep-2021  15:46:04
+User Name : craigmcmahon
+Host Name : linap-me5159-03.doe.carleton.ca
+Directory : /home/craigmcmahon/elec4609/lab1_2
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+
+                       Individual Cell Statistics - Basic Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               Instance Array   Polygon  Rect   Path   PathSeg   Text   TextDisplay   Line   Dot   Arc   Donut   Ellipse 
+---------------------------------------------------------------------------------------------------------------------------------------
+CuFab/inverter/layout           0        0       0        22     0      0         0      4             0      0     0     0       0       
+CuFab/ring_oscillator/layout    5        0       0        11     0      0         0      2             0      0     0     0       0       
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Individual Cell Statistics - Advanced Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               PRBdy    OtherBdy   AreaBlkg   LayerBlkg  AreaHalo   Row   Marker   CustVia   StdVia    CdsGenVia
+---------------------------------------------------------------------------------------------------------------------------------------
+CuFab/inverter/layout           0        0          0          0          0          0     0        0         0         0        
+CuFab/ring_oscillator/layout    0        0          0          0          0          0     0        0         0         0        
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Statistics of Layers 
+---------------------------------------------------------------------------------------------------------------------------------------
+Cadence         Cadence         Stream  Stream   
+Layer           Purpose         Layer   Datatype  Polygon  Rect     Path     Text     TextDisplay   Line Dot Arc Donut Ellipse Pathseg
+---------------------------------------------------------------------------------------------------------------------------------------
+NWELL           drawing         2       0         0        1        0        0        0             0    0   0   0     0      0      
+Pplus           drawing         4       0         0        1        0        0        0             0    0   0   0     0      0      
+POLY            drawing         7       0         0        6        0        0        0             0    0   0   0     0      0      
+CONTACT         drawing         6       0         0        9        0        0        0             0    0   0   0     0      0      
+METAL           drawing         5       0         0        12       0        0        6             0    0   0   0     0      0      
+DWELL           drawing         1       0         0        4        0        0        0             0    0   0   0     0      0      
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Summary of Objects Translated:
+	Scalar Instances:		5
+	Array Instances:		0
+	Polygons:			0
+	Paths:				0
+	Rectangles:			33
+	Lines:				0
+	Arcs:				0
+	Donuts:				0
+	Dots:				0
+	Ellipses:			0
+	Boundaries:			0
+	Area Blockages:			0
+	Layer Blockages:		0
+	Area Halos:			0
+	Markers:			0
+	Rows:				0
+	Standard Vias:			0
+	Custom Vias:			0
+	CdsGen Vias:			0
+	Pathsegs:			0
+	Text:				0
+	TextDisplay:		6
+	Cells:				2
+Design Libraries: 
+
+DEFINE CuFab	/home/craigmcmahon/elec4609/lab1_2/CuFab

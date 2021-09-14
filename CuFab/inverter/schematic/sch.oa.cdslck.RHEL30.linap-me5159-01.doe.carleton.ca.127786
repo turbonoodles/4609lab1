@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      craigmcmahon
+HostName                       linap-me5159-01.doe.carleton.ca
+ProcessIdentifier              127786
+ProcessCreationTime_UTC        1631543240
+ProcessCreationTime_Readable   Mon Sep 13 10:27:20 2021 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/craigmcmahon/elec4609/lab1_2/CuFab/inverter/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Sep 13 10:27:53 2021 EDT
